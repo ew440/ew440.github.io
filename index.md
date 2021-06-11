@@ -2,28 +2,15 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Car Insurance: Simple Data analysis/ Prediction]
-https://colab.research.google.com/drive/1uLp4DgO1nzB31qCArTuEQHPZ4KWwnGj0#scrollTo=Nu0yPgWpHEO3
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Car Insurance: Simple Data analysis/ Prediction] (Complete)
+Link: https://colab.research.google.com/drive/1uLp4DgO1nzB31qCArTuEQHPZ4KWwnGj0#scrollTo=Nu0yPgWpHEO3
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Reddit API work with data analysis (In progress) 
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
