@@ -6,6 +6,7 @@
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+https://colab.research.google.com/drive/1uLp4DgO1nzB31qCArTuEQHPZ4KWwnGj0#scrollTo=Nu0yPgWpHEO3
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
