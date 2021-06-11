@@ -5,7 +5,7 @@
 ### Projects
 
 [Car Insurance: Simple Data analysis/ Prediction] (Complete)
-Link: https://colab.research.google.com/drive/1uLp4DgO1nzB31qCArTuEQHPZ4KWwnGj0#scrollTo=Nu0yPgWpHEO3
+[Link: https://colab.research.google.com/drive/1uLp4DgO1nzB31qCArTuEQHPZ4KWwnGj0#scrollTo=Nu0yPgWpHEO3](url)
 
 ---
 Reddit API work with data analysis (In progress) 
