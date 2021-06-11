@@ -4,8 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Car Insurance: Simple Data analysis/ Prediction]
 https://colab.research.google.com/drive/1uLp4DgO1nzB31qCArTuEQHPZ4KWwnGj0#scrollTo=Nu0yPgWpHEO3
 
 ---
