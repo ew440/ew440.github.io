@@ -1,6 +1,8 @@
 title: Ewan Woodcock # your name (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi, I'm Ewan. You can view my projects on the right. This page is very much in development!
+  Hi, I'm Ewan. You can view my projects on the right. 
+  
+  This page is very much in development!
   <br><br>
   
 theme: jekyll-theme-minimal
