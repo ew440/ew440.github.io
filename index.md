@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Car Insurance: Simple Data analysis/ Prediction](https://colab.research.google.com/drive/1uLp4DgO1nzB31qCArTuEQHPZ4KWwnGj0?usp=sharing)
+[Car Insurance: Simple Data analysis/ Prediction](https://colab.research.google.com/drive/1LdP_z0S_qrGUwELGRnVtI02OalsOJlHM?usp=sharing)
 
 <img src="images/graphs.png?raw=true"/>
 
