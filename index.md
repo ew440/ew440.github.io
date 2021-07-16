@@ -1,7 +1,3 @@
-## Portfolio
-
----
-
 ### Projects
 
 [Car Insurance: Simple Data analysis/ Prediction](https://colab.research.google.com/drive/1LdP_z0S_qrGUwELGRnVtI02OalsOJlHM?usp=sharing)
