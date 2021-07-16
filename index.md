@@ -13,4 +13,4 @@
 
 [Reddit subreddit analysis via API](https://colab.research.google.com/drive/191hcuGRw6BwRaQPi7lgIY1K9vd9h_s-D?usp=sharing)
 
-<img src="images/awww.png?raw=true"/>
+<img src="images/aww.png?raw=true"/>
