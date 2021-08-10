@@ -10,4 +10,4 @@
 <img src="images/reddit_graphs.png?raw=true"/>
 
 
-[ETF small exploration using q]https://docs.google.com/document/d/1JzIOzPjfQd6mkU8l3J43jbD4zMxxuDLg09ItJTBpuF4/edit?usp=sharing
+[ETF small exploration using q](https://docs.google.com/document/d/1JzIOzPjfQd6mkU8l3J43jbD4zMxxuDLg09ItJTBpuF4/edit?usp=sharing)
